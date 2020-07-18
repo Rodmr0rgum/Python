@@ -1,3 +1,2 @@
-# scripts
+# Python Manual Tools
 
-Script manuales que hice para aprender
